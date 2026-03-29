@@ -9,6 +9,8 @@ A Python CLI tool for file integrity verification and RSA digital signatures.
 | Name | Student ID |
 |------|------------|
 | Barkhad Mohamed | 210208908 |
+| Sabrin Ali Isack | 210208994 |
+| Sadik Hassan Ismail | 220208742 |
 
 ---
 
